@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Elton Oliveira\\Desktop\\PWA\\Contato\\Contato.csproj": {}
+    "C:\\Users\\Elton Oliveira\\Desktop\\4-Periodo-ADS\\PWA\\Contato\\Contato.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Elton Oliveira\\Desktop\\PWA\\Contato\\Contato.csproj": {
+    "C:\\Users\\Elton Oliveira\\Desktop\\4-Periodo-ADS\\PWA\\Contato\\Contato.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Elton Oliveira\\Desktop\\PWA\\Contato\\Contato.csproj",
+        "projectUniqueName": "C:\\Users\\Elton Oliveira\\Desktop\\4-Periodo-ADS\\PWA\\Contato\\Contato.csproj",
         "projectName": "Contato",
-        "projectPath": "C:\\Users\\Elton Oliveira\\Desktop\\PWA\\Contato\\Contato.csproj",
+        "projectPath": "C:\\Users\\Elton Oliveira\\Desktop\\4-Periodo-ADS\\PWA\\Contato\\Contato.csproj",
         "packagesPath": "C:\\Users\\Elton Oliveira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Elton Oliveira\\Desktop\\PWA\\Contato\\obj\\",
+        "outputPath": "C:\\Users\\Elton Oliveira\\Desktop\\4-Periodo-ADS\\PWA\\Contato\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

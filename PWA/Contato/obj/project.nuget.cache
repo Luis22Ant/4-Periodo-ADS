@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gTrFqND6MUGQ31/IphAI1WSc/GApwOJY4WBzdF7iNv4dMRmRG39RI8Hz15MTFrI0Ak3TI2kF/HLaYplrIxzzdw==",
+  "dgSpecHash": "NdTIxtUu6k0mWAkTII+L5JIc6EaT38b10nimUPTjtukYxFGwrJgsC8YHxXI52q47/eEQCp+bA6Kxz8WRAKPSUw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Elton Oliveira\\Desktop\\PWA\\Contato\\Contato.csproj",
+  "projectFilePath": "C:\\Users\\Elton Oliveira\\Desktop\\4-Periodo-ADS\\PWA\\Contato\\Contato.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Elton Oliveira\\.nuget\\packages\\dapper\\2.1.28\\dapper.2.1.28.nupkg.sha512",
     "C:\\Users\\Elton Oliveira\\.nuget\\packages\\microsoft.data.sqlite\\8.0.2\\microsoft.data.sqlite.8.0.2.nupkg.sha512",
