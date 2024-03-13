@@ -1,12 +1,14 @@
 class BuscaBProfundidade{
 
+    //recursividade
+
     static preOrdem(no){
         if(!no){
             return;
         }
        console.log(no.valor); 
 
-   
+       //primeiro visita, depois preOrden da esqueda e depois da direira
        BuscaBProfundidade.preOrdem(no.filhoEsquerda);
 
        BuscaBProfundidade.preOrdem(no.filhoDireita);
@@ -17,7 +19,9 @@ class BuscaBProfundidade{
         if(!no){
             return;
         }
-             
+       
+
+       
        BuscaBProfundidade.preOrdem(no.filhoEsquerda);
 
        BuscaBProfundidade.preOrdem(no.filhoDireita);
