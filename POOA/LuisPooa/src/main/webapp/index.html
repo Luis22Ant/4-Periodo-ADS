@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -18,22 +17,21 @@
                 <div class="form" >
                     <div class="row">
                         <label for="">A</label>
-                        <input type="number" name = "cpValor1">
+                        <input type="text" name = "cpValor1">
                         <label for="">A</label>
-                        <input type="number" name = "cpValor2">
+                        <input type="text" name = "cpValor2">
                         <label for="">
-                            <button name="btn" value="+">
+                            <button name = "btn" value = "+" >
                                 +
                             </button>
-                            <button name="btn" value="-">
-                                +
+                            <button name = "btn" value = "-" >
+                                -
                             </button>
                         </label>
                     </div>
                 </div>
             </fieldset>
         </form>
-
         <form METHOD="GET" >
             <fieldset>
                 <legend>Calculadora com Ajax</legend>
@@ -44,27 +42,70 @@
                         <label for="">Valor 2</label>
                         <input type="number" name = "cpValor2">
                         <label for="">
-                            <button name="btn" value="+" type="button">
+                            <button name = "btn" value = "+" type="button">
                                 +
                             </button>
-                            <button name="btn" value="-" type="button">
+                            <button name = "btn" value = "-" type="button">
                                 -
                             </button>
                         </label>
-                        <h2 style="display:none"></h2>
+                        <h2 style="display: none"></h2>
                     </div>
                 </div>
             </fieldset>
         </form>
+        <form action="/terceiro" METHOD="POST" >
+            <fieldset>
+                <legend>Calculadora usando Redirect</legend>
+                <div class="form" >
+                    <div class="row">
+                        <label for="">Valor 1</label>
+                        <input type="number" name = "cpValor1">
+                        <label for="">Valor 2</label>
+                        <input type="number" name = "cpValor2">
+                        <label for="">
+                            <button name = "btn" value = "+" >
+                                +
+                            </button>
+                            <button name = "btn" value = "-" >
+                                -
+                            </button>
+                        </label>
+                        <h2 style="display: none"></h2>
+                    </div>
+                </div>
+            </fieldset>
+        </form>
+
+        <form action="/quarto" METHOD="POST" >
+            <fieldset>
+                <legend>Calculadora usando Forward</legend>
+                <div class="form" >
+                    <div class="row">
+                        <label for="">Valor 1</label>
+                        <input type="number" name = "cpValor1">
+                        <label for="">Valor 2</label>
+                        <input type="number" name = "cpValor2">
+                        <label for="">
+                            <button name = "btn" value = "+" >
+                                +
+                            </button>
+                            <button name = "btn" value = "-" >
+                                -
+                            </button>
+                        </label>
+                        <h2 style="display: none"></h2>
+                    </div>
+                </div>
+            </fieldset>
+        </form>
+
     </div>
 
-    <div class="footer">
-        <h2>footer</h2>
-    </div>
+
 </div>
-    <script src= "../js/script.js"></script>
-    <script src= "../js/ajax.js"></script>
+
 </body>
 
 
-</html>
+</html>s

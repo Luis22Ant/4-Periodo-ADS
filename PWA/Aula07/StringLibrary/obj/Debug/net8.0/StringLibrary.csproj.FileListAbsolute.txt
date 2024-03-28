@@ -1,0 +1,12 @@
+C:\Users\Elton Oliveira\Desktop\Aula07\StringLibrary\bin\Debug\net8.0\StringLibrary.deps.json
+C:\Users\Elton Oliveira\Desktop\Aula07\StringLibrary\bin\Debug\net8.0\StringLibrary.dll
+C:\Users\Elton Oliveira\Desktop\Aula07\StringLibrary\bin\Debug\net8.0\StringLibrary.pdb
+C:\Users\Elton Oliveira\Desktop\Aula07\StringLibrary\obj\Debug\net8.0\StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elton Oliveira\Desktop\Aula07\StringLibrary\obj\Debug\net8.0\StringLibrary.AssemblyInfoInputs.cache
+C:\Users\Elton Oliveira\Desktop\Aula07\StringLibrary\obj\Debug\net8.0\StringLibrary.AssemblyInfo.cs
+C:\Users\Elton Oliveira\Desktop\Aula07\StringLibrary\obj\Debug\net8.0\StringLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Elton Oliveira\Desktop\Aula07\StringLibrary\obj\Debug\net8.0\StringLibrary.sourcelink.json
+C:\Users\Elton Oliveira\Desktop\Aula07\StringLibrary\obj\Debug\net8.0\StringLibrary.dll
+C:\Users\Elton Oliveira\Desktop\Aula07\StringLibrary\obj\Debug\net8.0\refint\StringLibrary.dll
+C:\Users\Elton Oliveira\Desktop\Aula07\StringLibrary\obj\Debug\net8.0\StringLibrary.pdb
+C:\Users\Elton Oliveira\Desktop\Aula07\StringLibrary\obj\Debug\net8.0\ref\StringLibrary.dll

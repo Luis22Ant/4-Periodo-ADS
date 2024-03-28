@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b9bdda19-b0b8-4300-bb14-94be45347af9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/LuisPooa/src/main/java/br/edu/vianna/servlet/QuartoServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LuisPooa/src/main/webapp/respostaForward.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LuisPooa/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LuisPooa/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LuisPooa/src/main/java/br/edu/vianna/model/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/LuisPooa/src/main/java/br/edu/vianna/model/Calculadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LuisPooa/src/main/java/br/edu/vianna/model/ETipoOperador.java" beforeDir="false" afterPath="$PROJECT_DIR$/LuisPooa/src/main/java/br/edu/vianna/model/ETipoOperador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LuisPooa/src/main/java/br/edu/vianna/servlet/PrimeiroServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/LuisPooa/src/main/java/br/edu/vianna/servlet/PrimeiroServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LuisPooa/src/main/java/br/edu/vianna/servlet/SegundoServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/LuisPooa/src/main/java/br/edu/vianna/servlet/SegundoServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LuisPooa/src/main/js/ajax.js" beforeDir="false" afterPath="$PROJECT_DIR$/LuisPooa/src/main/js/ajax.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LuisPooa/src/main/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/LuisPooa/src/main/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LuisPooa/src/main/webapp/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/LuisPooa/src/main/webapp/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LuisPooa/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/LuisPooa/src/main/webapp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LuisPooa/target/classes/br/edu/vianna/model/Calculadora.class" beforeDir="false" afterPath="$PROJECT_DIR$/LuisPooa/target/classes/br/edu/vianna/model/Calculadora.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LuisPooa/target/classes/br/edu/vianna/model/ETipoOperador.class" beforeDir="false" afterPath="$PROJECT_DIR$/LuisPooa/target/classes/br/edu/vianna/model/ETipoOperador.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LuisPooa/target/classes/br/edu/vianna/servlet/PrimeiroServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/LuisPooa/target/classes/br/edu/vianna/servlet/PrimeiroServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LuisPooa/target/classes/br/edu/vianna/servlet/SegundoServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/LuisPooa/target/classes/br/edu/vianna/servlet/SegundoServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PWA/Contato/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../PWA/Contato/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PWA/Contato/bin/Debug/net8.0/Contato.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../PWA/Contato/bin/Debug/net8.0/Contato.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PWA/Contato/bin/Debug/net8.0/Contato.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../PWA/Contato/bin/Debug/net8.0/Contato.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PWA/Contato/bin/Debug/net8.0/Contato.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../PWA/Contato/bin/Debug/net8.0/Contato.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PWA/Contato/db/dados.db" beforeDir="false" afterPath="$PROJECT_DIR$/../PWA/Contato/db/dados.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PWA/Contato/obj/Debug/net8.0/Contato.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../PWA/Contato/obj/Debug/net8.0/Contato.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PWA/Contato/obj/Debug/net8.0/Contato.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../PWA/Contato/obj/Debug/net8.0/Contato.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PWA/Contato/obj/Debug/net8.0/Contato.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../PWA/Contato/obj/Debug/net8.0/Contato.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PWA/Contato/obj/Debug/net8.0/Contato.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../PWA/Contato/obj/Debug/net8.0/Contato.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PWA/Contato/obj/Debug/net8.0/Contato.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/../PWA/Contato/obj/Debug/net8.0/Contato.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PWA/Contato/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../PWA/Contato/obj/Debug/net8.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PWA/Contato/obj/Debug/net8.0/ref/Contato.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../PWA/Contato/obj/Debug/net8.0/ref/Contato.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PWA/Contato/obj/Debug/net8.0/refint/Contato.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../PWA/Contato/obj/Debug/net8.0/refint/Contato.dll" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2dKYYZ0JlYO2PcUwPesKeHcrxXl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9bdda19-b0b8-4300-bb14-94be45347af9" name="Changes" comment="" />
+      <created>1709758286386</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709758286386</updated>
+    </task>
+    <servers />
+  </component>
+</project>

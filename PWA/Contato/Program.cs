@@ -2,34 +2,72 @@
 using Contato.models;
 using Microsoft.Data.Sqlite;
 using Dapper;
+using Contato.DAO;
+
+// ContatoDAO daoContato = new ContatoDAO();
+// Contatos obj = new Contatos
+// {
+//     Id = "",
+//     Nome = "Ravier",
+//     Email = "ravier@gmail.com"
+// };
+
+// daoContato.Inserir(obj);
+
+// obj = daoContato.RetornarPorId(obj.Id);
+
+// Console.WriteLine($"Inserido:{obj.Id} - {obj.Nome} - {obj.Email}");
+// Console.WriteLine($"---------------------------------------------");
+
+// var contatos = daoContato.RetornarTodos();
+
+// foreach (var contato in contatos)
+// {
+//     Console.WriteLine($"{contato.Id} - {contato.Nome} - {contato.Email}");
+// }
 
 
-Contatos obj = new Contatos
+var p1 = new Produto
 {
-    Id = "10",
-    Nome = "Pedro",
-    Email = "pedro@gmail.com"
+    Nome = "Coca-Cola",
+    Quantidade = 10,
+    Preco = 5.5
 };
 
-string connectionString = @"Data Source=db/dados.db";
-string query = "INSERT INTO Contatos (Id, Nome, Email) VALUES (@Id, @Nome, @Email)";
-// string queryUpdate = "UPDATE Contatos SET Nome = @Nome,Email = @Email WHERE Id = @Id";
-// string queryDelete = "DELETE FROM Contatos";
-// string queryDeleteFiltro = "DELETE FROM Contatos " +
-// " WHERE Id = @Id";
-
-try
+var p2 = new Produto
 {
-    using (var conexao = new SqliteConnection(connectionString))
-    {
-        conexao.Open();
-        conexao.Execute(query, obj);
+    Nome = "Papsi",
+    Quantidade = 5,
+    Preco = 5.0
+};
 
-        Console.WriteLine("Sucesso!");
-    }
-}
-catch (Exception ex)
+var p3 = new Contatos
 {
-    Console.WriteLine("Erro : " + ex.ToString());
+    Nome = "Arthur",
+    Email = "arthur@gmail.com"
+};
+
+var dao = new ProdutoDAO();
+
+var daoC = new ContatoDAO();
+daoC.Inserir(p3);
+dao.Inserir(p1);
+dao.Inserir(p2);
+
+Imprimir();
+
+p2.Nome = "Pepsi";
+
+dao.Alterar(p2);
+
+Imprimir();
+
+void Imprimir()
+{
+    foreach (var obj in dao.RetornarTodos())
+        Console.WriteLine($"{obj.Id} - {obj.Nome} - {obj.Preco:N2} - {obj.Quantidade}");
+
+    Console.WriteLine("--------------------------");
 }
+
 
